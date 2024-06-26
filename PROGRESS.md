@@ -1,7 +1,7 @@
 # Overview
 | Language | basemodui | closecaption | gameui | reactivedrop | items | statsweb | Strings | Files |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ |
+| [Simplified Chinese](#schinese-简体中文) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [Traditional Chinese](#tchinese-繁體中文) | 13 | 141 | 33 | 3082 | 257 | 212 | 239 | 146 |
 | [Czech](#czech-čeština) | 75 | 1810 | 42 | 4221 | 263 | 212 | 983 | 146 |
 | [Danish](#non-curated-languages) | 56 | 231 | 42 | 3748 | 263 | 212 | 713 | 147 |
@@ -19,10 +19,10 @@
 | [European Portuguese](#portuguese-português-europeu) | 4 | 180 | 32 | 2307 | 243 | 33 | 633 | 141 |
 | [Brazilian Portuguese](#brazilian-português) | ✔️ | ✔️ | ✔️ | 1477 | 4 | 3 | 1 | 2 |
 | [Romanian](#non-curated-languages) | 55 | 1996 | 48 | 3928 | 263 | 212 | 978 | 147 |
-| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | 4 | ✔️ | ✔️ | ✔️ |
+| [Russian](#russian-русский) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | 1 |
 | [European Spanish](#spanish-español-de-españa) | 32 | 2004 | 40 | 2633 | 263 | 212 | 717 | 146 |
-| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4268 | 10 | 3 | 204 | 141 |
-| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 882 | 4 | ✔️ | ✔️ | 87 |
+| [Latin American Spanish](#latam-español-latinoamericano) | ✔️ | 2004 | ✔️ | 4268 | 10 | 3 | 204 | 142 |
+| [Swedish](#swedish-svenska) | ✔️ | ✔️ | ✔️ | 882 | ✔️ | ✔️ | ✔️ | 87 |
 | [Thai](#non-curated-languages) | 970 | 1993 | 50 | 4464 | 263 | 212 | 742 | 147 |
 | [Turkish](#non-curated-languages) | 55 | 137 | 42 | 3216 | 263 | 212 | 978 | 147 |
 | [Ukrainian](#ukrainian-українська) | 31 | 131 | 32 | 2761 | 263 | 212 | 936 | 146 |
@@ -41,9 +41,9 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [items_schinese.vdf](community/inventory_service/items_schinese.vdf) has 4 untranslated strings.
+- [20240701_schinese.xml](release_notes/20240701_english.xml) is missing.
 
 </details>
 
@@ -78,7 +78,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_tchinese.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_tchinese.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -262,7 +262,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_czech.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_czech.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -446,7 +446,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_french.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_french.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -621,7 +621,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_indonesian.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_indonesian.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -826,7 +826,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_koreana.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_koreana.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -911,7 +911,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_polish.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_polish.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -1092,7 +1092,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_portuguese.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_portuguese.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -1259,7 +1259,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_brazilian.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_brazilian.xml](release_notes/20240701_english.xml) is missing.
 
 </details>
 
@@ -1269,9 +1269,9 @@
 
 </summary>
 
-### Strings
+### Upcoming Release Notes
 
-- [items_russian.vdf](community/inventory_service/items_russian.vdf) has 4 untranslated strings.
+- [20240701_russian.xml](release_notes/20240701_english.xml) is missing.
 
 </details>
 
@@ -1308,7 +1308,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_spanish.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_spanish.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -1476,6 +1476,10 @@
 - [closecaption_latam.txt](resource/closecaption_latam.txt) has 2004 untranslated strings.
 - [reactivedrop_latam.txt](resource/reactivedrop_latam.txt) has 4268 untranslated strings.
 
+### Upcoming Release Notes
+
+- [20240701_latam.xml](release_notes/20240701_english.xml) is missing.
+
 ### Credits
 
 - [addons/ExampleAddon/CustomCampaignCredits_latam.txt](addons/ExampleAddon/resource/CustomCampaignCredits_english.txt) is missing.
@@ -1633,12 +1637,11 @@
 
 ### Strings
 
-- [items_swedish.vdf](community/inventory_service/items_swedish.vdf) has 4 untranslated strings.
 - [reactivedrop_swedish.txt](resource/reactivedrop_swedish.txt) has 882 untranslated strings.
 
 ### Upcoming Release Notes
 
-- [20240601_swedish.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_swedish.xml](release_notes/20240701_english.xml) is missing.
 
 ### Mail and News
 
@@ -1764,7 +1767,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_ukrainian.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_ukrainian.xml](release_notes/20240701_english.xml) is missing.
 
 ### Credits
 
@@ -1931,7 +1934,7 @@
 
 ### Upcoming Release Notes
 
-- [20240601_vietnamese.xml](release_notes/20240601_english.xml) is missing.
+- [20240701_vietnamese.xml](release_notes/20240701_english.xml) is missing.
 
 ### Mail and News
 
