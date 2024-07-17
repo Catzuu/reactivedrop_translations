@@ -514,15 +514,15 @@
 "[english]L4D360UI_GameSettings_Tooltip_Create_Lobby"		"Create a lobby with these settings."
 "L4D360UI_GameSettings_Tooltip_Create_Lobby"		"Buat sebuah lobi dengan pengaturan ini."
 
-		// Unlockable Awards
-		"[english]L4D360UI_ShowUnlockableAwards"		"Display Avatar Awards"
-		"L4D360UI_ShowUnlockableAwards"		"Display Avatar Awards"
-		"[english]L4D360UI_ShowAchievements"		"Display Achievements"
-		"L4D360UI_ShowAchievements"		"Display Achievements"
+// Unlockable Awards
+"[english]L4D360UI_ShowUnlockableAwards"		"Display Avatar Awards"
+"L4D360UI_ShowUnlockableAwards"		"Tampilkan Penghargaan Avatar"
+"[english]L4D360UI_ShowAchievements"		"Display Achievements"
+"L4D360UI_ShowAchievements"		"Tampilkan Pencapaian"
 
-		//Attract Screen
-		"[english]L4D360UI_Attract_PressStart"		"PRESS START"
-		"L4D360UI_Attract_PressStart"		"PRESS START"
+//Attract Screen
+"[english]L4D360UI_Attract_PressStart"		"PRESS START"
+"L4D360UI_Attract_PressStart"		"TEKAN MULAI"
 
 		//Sign In Screen
 		"[english]L4D360UI_SignIn_Title"		" Welcome, %s1"
